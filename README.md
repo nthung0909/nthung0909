@@ -21,5 +21,5 @@ _____
 <img src="https://github.com/nthung0909/profile/assets/54109265/d97627d7-719a-4cc4-804d-4eafa85e0851" width="77" height="77">
 <img src="https://github.com/nthung0909/profile/assets/54109265/0d635d95-72a1-432a-add9-e55d660aeeb9" width="77" height="77">
 <img src="https://github.com/nthung0909/profile/assets/54109265/dabba901-ef09-4bdd-821f-dca9e79647f3" width="77" height="77">
-<img src="https://github.com/nthung0909/profile/assets/54109265/0849ad3e-3c88-4dd0-9ede-35aa57b7c03f" width="77" height="77">
+<!-- <img src="https://github.com/nthung0909/profile/assets/54109265/0849ad3e-3c88-4dd0-9ede-35aa57b7c03f" width="77" height="77"> -->
 <img src="https://github.com/nthung0909/nthung0909/assets/54109265/6f830096-f8ae-4ae6-990c-c4d0d2818a57" width="77" height="77">
