@@ -5,7 +5,6 @@
 _____
 ### Contact with me
 <a href="https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-tr%E1%BB%8Dng-713525202"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/hungnt_cmc/"><img width="97" src="https://github.com/nthung0909/nthung0909/assets/54109265/a5558810-e0be-431b-aad4-f4a7c051e51f" alt="Instagram"></a>
 
 ### 🛠️ Languages and tools
 <!-- Programmer gif -->
